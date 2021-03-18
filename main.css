@@ -1,0 +1,503 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+  @font-face {
+      font-family: 'df';
+      src: url("");
+      font-weight: 700;
+    }
+  *{
+      font-family: 'df', sans-serif;
+      max-width: 712px;
+  }
+  .fontAfo{
+      font-family: 'Righteous', sans-serif !important;
+      font-weight: 400 !important;
+  }
+  .afoYellow{
+      color: #FFB311;
+  }
+  .all{
+      background: #F2F2F2;
+      
+  }
+  .frame181{
+      position: absolute;
+  width: 712px;
+  height: 78px;
+  left: 10px;
+  top: 78px;
+  
+  background: #FFFFFF;
+  /* transform: matrix(1, 0, 0, -1, 0, 0); */
+  }
+  .Logo1{
+      position: absolute;
+  width: 60px;
+  height: 61.26px;
+  left: 8px;
+  top: 4px;
+  border-radius: 10px;
+  }
+  .logo2{
+      position: absolute;
+  width: 60px;
+  height: 60px;
+  left: 641px;
+  top: 9px;
+  border-radius: 10px;
+  }
+  
+  .textTitle{
+      position: absolute;
+  width: 204px;
+  height: 70px;
+  left: 254px;
+  top: 4px;
+  
+  font-family: 'df', sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 35px;
+  /* or 146% */
+  
+  text-align: center;
+  
+  color: #000000;
+  }
+  
+  .mainTitle1{
+      position: absolute;
+  width: 692px;
+  height: 141px;
+  top: 156px;
+  padding: 82px 10px 0px 10px;
+  font-family: 'df', sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 48px;
+  line-height: 49px;
+  /* or 102% */
+  
+  text-align: center;
+  color: #000000;
+  
+  }
+  .img1{
+      position: absolute;
+  width: 617px;
+  height: 273px;
+  top: 375px;
+  padding: 0px 38px 100px 57px;
+  margin-top: 78px;
+  background: url("https://s3.amazonaws.com/appforest_uf/f1616094104395x993253344769468300/Frame%20182.png");
+  filter: drop-shadow(10px 10px 55px rgba(0, 0, 0, 0.25));
+  border-radius: 10px;
+  }
+  .title2{
+      position: absolute;
+  width: 571px;
+  height: 140px;
+  /* left: 70px; */
+  top: 753px;
+  padding: 105px 70px 0px 70px;
+  font-family: 'df', sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 39px;
+  line-height: 46px;
+  /* or 118% */
+  
+  text-align: center;
+  
+  color: #000000;
+  }
+  
+  
+  
+  
+  /* phones */
+  .phone1Text{
+      position: absolute;
+  width: 315px;
+  height: 300px;
+  left: 45px;
+  top: 1114px;
+  padding: 70px 84px 0px 45px;
+  font-family: 'df', sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  /* or 102% */
+  color: #000000;
+  }
+  
+  .phone1Title{
+  font-size: 48px;
+  line-height: 50px;
+  }
+  
+  .phone1Desc{
+      padding-top: 20px;
+      font-size: 24px;
+      line-height: 35px;
+      font-weight: 500;
+      }
+  .phone1Img{
+      position: absolute;
+      /* width: 330px; */
+  height: 627px;
+  left: 442px;
+  top: 964px;
+  padding: 71px 60px 0px 0px;
+  filter: drop-shadow(0px 24px 55px rgba(0, 0, 0, 0.25));
+  }
+  
+  .phone2Text{
+      position: absolute;
+      width: 313px;
+      height: 305px;
+      left: 343px;
+      top: 1736px;
+  padding: 0px 84px 0px 45px;
+  font-family: 'df', sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  /* or 102% */
+  color: #000000;
+  text-align: right;
+  }
+  
+  .phone2Title{
+      
+  font-size: 48px;
+  line-height: 50px;
+  }
+  
+  .phone2Desc{
+      padding: 20px 0 0 12px;
+      font-size: 24px;
+      line-height: 35px;
+      font-weight: 500;
+      }
+  .phone2Img{
+      position: absolute;
+      /* width: 330px; */
+      height: 586.67px;
+      left: -49px;
+      top: 1597px;
+      padding: 6px 62px 0px 0px;
+      margin-left: 121px;
+      filter: drop-shadow(0px 24px 56px rgba(0, 0, 0, 0.25));
+  }
+  
+  .phone3Text{
+      position: absolute;
+      width: 313px;
+      height: 343px;
+      left: 45px;
+      top: 2331px;
+  padding: 0px 84px 0px 45px;
+  font-family: 'df', sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  /* or 102% */
+  color: #000000;
+  }
+  
+  .phone3Title{
+      
+  font-size: 48px;
+  line-height: 50px;
+  }
+  
+  .phone3Desc{
+      padding-top: 20px;
+      font-size: 24px;
+      line-height: 35px;
+      font-weight: 500;
+      }
+  .phone3Img{
+      position: absolute;
+      /* width: 330px; */
+  height: 627px;
+  left: 442px;
+  top: 2161px;
+  padding: 0px 60px 0px 0px;
+  filter: drop-shadow(0px 24px 55px rgba(0, 0, 0, 0.25));
+  }
+  
+  .steps{
+      position: absolute;
+  width: 428px;
+  height: 49px;
+  /* left: 136px; */
+  top: 2833px;
+  padding: 0px 148px 0px 136px;
+  /* font-family: Helvetica Neue LT Std; */
+  font-style: normal;
+  font-weight: bold;
+  font-size: 48px;
+  line-height: 49px;
+  /* identical to box height, or 102% */
+  
+  text-align: center;
+  
+  color: #000000;
+  }
+  
+  .no{
+      position: absolute;
+  width: 54.4px;
+  height: 51.3px;
+  /* left: 56px; */
+  padding: 0px 29.6px 0px 56px;
+  /* font-family: Helvetica Neue LT Std; */
+  font-style: normal;
+  font-weight: bold;
+  font-size: 70px;
+  line-height: 49px;
+  /* or 70% */
+  
+  text-align: center;
+  
+  color: #000000;
+  }
+  
+  .no1{
+      top: 2961.7px;
+  }
+  .no2{
+      top: 3071.63px;
+  }
+  .no3{
+      top: 3183.66px;
+  }
+  .no4{
+      top: 3296.72px;
+  }
+  .no5{
+      top: 3407.7px;
+  }
+  .list{
+      position: absolute;
+  width: 527.23px;
+  height: 67px;
+  left: 144.77px;
+  padding: 0px 40px 0 0px;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 39px;
+  color: rgba(0, 0, 0, 0.7);
+  }
+  .list1{
+      top: 2946px;
+  }
+  .list2{
+      top: 3054.88px;
+  }
+  .list3{
+      top: 3167.95px;
+  }
+  .list4{
+      top: 3281.02px;
+  }
+  .list5{
+      top: 3389.9px;
+  }
+  .apk{
+      top: 3550px;
+      /* left: 157px; */
+      width: 100%;
+      position: absolute;
+      display: flex;
+      flex-direction: row;
+      justify-content: space-evenly;
+  }
+  
+  .divAppleApk>a>img, .divPlaystoreApk>a>img{
+      width: 265px;
+      height: 90px;
+  }
+  
+  .apkText{
+      position: absolute;
+  width: 457px;
+  height: 64px;
+  left: 66px;
+  top: 3654px;
+  padding: 0px 65px 8px 65px;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 16px;
+  /* or 133% */
+  
+  text-align: center;
+  
+  color: #000000;
+  }
+  
+  
+  /* fitness */
+  .fitness{
+      position: absolute;
+  width: 423px;
+  height: 71px;
+  left: 145px;
+  top: 3823px;
+  
+  font-family: Helvetica Neue LT Std;
+  font-style: normal;
+  font-weight: bold;
+  line-height: 32px;
+  /* or 67% */
+  
+  text-align: center;
+  color: #000000;
+  
+  }
+  .fitnessTitle{
+      font-size: 47px;
+  }
+  .fitnessDesc{
+      font-size: 18px;
+  }
+  
+  .fitnessAppleLogo{
+      position: absolute;
+  width: 150px;
+  height: 150px;
+  left: 184px;
+  top: 3918px;
+  background: url("https://s3.amazonaws.com/appforest_uf/f1616093897570x329495411551739460/apple.png");
+  }
+  
+  .fitnessGFitLogo{
+      position: absolute;
+  width: 130px;
+  height: 110.18px;
+  left: 369px;
+  top: 3938px;
+  background: url("https://s3.amazonaws.com/appforest_uf/f1616094065395x346671310736635100/googleFit.png");
+  }
+  
+  .fitnessAppleLogoText{
+      position: absolute;
+  width: 143px;
+  height: 35px;
+  left: 188px;
+  top: 4077px;
+  
+  font-style: normal;
+  font-weight: 600;
+  font-size: 23px;
+  line-height: 35px;
+  
+  
+  color: #000000;
+  }
+  
+  .fitnessGFitLogoText{
+      position: absolute;
+      width: 115px;
+      height: 35px;
+      left: 377px;
+      top: 4077px;
+      font-style: normal;
+      font-weight: 600;
+      font-size: 23px;
+      line-height: 35px;
+      color: #000000;
+  }
+  
+  .contactTitle{
+      position: absolute;
+  width: 382px;
+  height: 40px;
+  left: 165px;
+  top: 4213px;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 35px;
+  /* or 146% */
+  
+  text-align: center;
+  
+  color: #000000;
+  
+  }
+  
+  .emailContactTitle{
+      position: absolute;
+  width: 211px;
+  height: 32px;
+  left: 145px;
+  top: 4261px;
+  
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 35px;
+  /* or 175% */
+  
+  text-align: center;
+  
+  color: #000000;
+  }
+  
+  .whatsappContactTitle{
+      
+  position: absolute;
+  width: 211px;
+  height: 32px;
+  left: 356px;
+  top: 4261px;
+  
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 35px;
+  /* or 175% */
+  
+  text-align: center;
+  
+  color: #000000;
+  }
+  
+  .emailContactTitle>i{
+      color: red;
+      font-size: 25px;
+  }
+  .whatsappContactTitle>i{
+      color: green;
+      font-size: 25px;
+  }
+  
+  .footer{
+      display: flex;
+      flex-direction: row;
+      justify-content: space-evenly;
+      position: absolute;
+  width: 712px;
+  height: 106.76px;
+  left: 0px;
+  top: 4362px;
+  background-color: rgb(32, 30, 30);
+  }
+  .footer>div{
+      color: white;
+      padding-top: 20px;
+      text-align: center;
+  }
+  .footer>div>a{
+      color: white;
+      font-size: 40px;
+  }
+  
+  @media only screen and (max-width: 500px) {
+  .apk{
+      left: 157px;
+  }
+    }
